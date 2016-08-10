@@ -2,7 +2,6 @@
 
 This repository contains the submission of the course project for Getting and Cleaning Data course. Getting and Cleaning Data course is part of the Johns Hopkins university Data Science specialization.
 
-# Getting and Cleaning Data Course Project
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
 You should create one R script called run_analysis.R that does the following.
